@@ -1,0 +1,16 @@
+.generalContainer {
+        width: 800;
+        padding: 20;
+        position: 'relative';
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        margin: 'auto';
+        border-color: '#795da3';
+        border-radius: 10;
+        border-width: 1;
+        border-style: 'solid';
+        box-shadow: '1px 1px 20px 5px #C9C9C9';
+      
+}
